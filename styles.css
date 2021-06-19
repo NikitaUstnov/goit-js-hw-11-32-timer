@@ -1,0 +1,16 @@
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  padding: 20px;
+  background-color: rgba(130, 228, 195, 0.788);
+  border-radius: 5px;
+
+  margin-right: 5px;
+}
+.field:last-child {
+  margin-right: 0;
+}
